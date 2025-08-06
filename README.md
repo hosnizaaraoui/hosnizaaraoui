@@ -1,4 +1,4 @@
-![Banner]([https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1757548800&v=beta&t=fidZbI8I6m7DOsgBtoKPjP03RNTCTyBsTYy2yBJMmuE])
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1757548800&v=beta&t=fidZbI8I6m7DOsgBtoKPjP03RNTCTyBsTYy2yBJMmuE)
 # 👋 Hey, I'm Hosni Zaaraoui
 
 🚀 **Passionate about Linux, Python, and Cybersecurity**  
@@ -20,11 +20,11 @@ Fetches live data from CoinMarketCap, displays it in a color-coded TUI, and supp
 ---
 
 ## 🛠 Skills & Tools
-- **Languages:** Python, Bash, C
-- **Frameworks & Libraries:** Requests, PyTermGUI, BeautifulSoup4, Flask
-- **Cybersecurity Tools:** Nmap, Metasploit, Nuclei, WPScan, Burpsuite
+- **Languages:** Python, Bash, C...
+- **Frameworks & Libraries:** Requests, Selenium, PyTermGUI, BeautifulSoup4, Flask ...
+- **Cybersecurity Tools:** Nmap, Metasploit, Nuclei, WPScan, Burpsuite ...
 - **OS & Environments:** Linux, Kali, Ubuntu, Docker
-- **Other:** Web scraping, Automation, Networking
+- **Other:** Web scraping, Automation, Networking...
 
 ---
 
