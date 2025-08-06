@@ -1,3 +1,4 @@
+![Crypto TUI Screenshot]([screen1.png](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1757548800&v=beta&t=fidZbI8I6m7DOsgBtoKPjP03RNTCTyBsTYy2yBJMmuE))
 # 👋 Hey, I'm Hosni Zaaraoui
 
 🚀 **Passionate about Linux, Python, and Cybersecurity**  
@@ -14,7 +15,7 @@ Fetches live data from CoinMarketCap, displays it in a color-coded TUI, and supp
 
 [![GitHub Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-blue)](https://github.com/hosnizaaraoui/CRYPTS)
 
-![Crypto TUI Screenshot](screen1.png)
+
 
 ---
 
