@@ -8,6 +8,12 @@
 ---
 
 ## 🔥 Featured Project
+### CardioNet
+A beautiful, modern Terminal User Interface (TUI) for nmap, built with Python and Textual.
+
+CardioNet simplifies network scanning by providing an intuitive graphical interface for nmap, making it accessible to both beginners and advanced users. 
+Build complex scanning commands visually, execute them in real-time, and export results in multiple formats.
+[![GitHub Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-blue)](https://github.com/hosnizaaraoui/cardionet)
 
 ### 💹 CRYPTS: Crypto TUI Tracker
 A terminal-based cryptocurrency tracker built with **Python**, **BeautifulSoup4**, and **PyTermGUI**.  
