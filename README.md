@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1764201600&v=beta&t=AP61JA2rLO9zMTGaSp7CXaGyT34n_1-WsCLKuuhMKmM)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1766620800&v=beta&t=F2KpnKvPMW0XH9lm7K9DN3kjLIKGF87Ef2OBxZoPFPI)
 # 👋 Hey, I'm Hosni Zaaraoui
 
 🚀 **Passionate about Linux, Python, and Cybersecurity**  
