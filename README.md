@@ -69,9 +69,9 @@ System Logs · Performance Analysis · Network Diagnostics · Security Auditing
 
 <div align="center">
 
-![Hosni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosnizaaraoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hosnizaaraoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+![](https://github-readme-stats.vercel.app/api?username=hosnizaaraoui&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hosnizaaraoui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosnizaaraoui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
