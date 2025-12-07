@@ -1,50 +1,96 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1766620800&v=beta&t=F2KpnKvPMW0XH9lm7K9DN3kjLIKGF87Ef2OBxZoPFPI)
-# 👋 Hey, I'm Hosni Zaaraoui
 
-🚀 **Passionate about Linux, Python, and Cybersecurity**  
-💡 I love building tools, exploring open source, and automating everything I can.  
-📚 Always learning — always experimenting.
+# 👋 Hey there, I'm Hosni Zaaraoui
 
----
+**🖥️ System Administrator | 🐍 Python Developer | 🔐 Cybersecurity Enthusiast**
 
-## 🔥 Featured Project
-### CardioNet
-A beautiful, modern Terminal User Interface (TUI) for nmap, built with Python and Textual.
-
-CardioNet simplifies network scanning by providing an intuitive graphical interface for nmap, making it accessible to both beginners and advanced users. 
-Build complex scanning commands visually, execute them in real-time, and export results in multiple formats.
-
-[![GitHub Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-blue)](https://github.com/hosnizaaraoui/cardionet)
-
-### 💹 CRYPTS: Crypto TUI Tracker
-A terminal-based cryptocurrency tracker built with **Python**, **BeautifulSoup4**, and **PyTermGUI**.  
-Fetches live data from CoinMarketCap, displays it in a color-coded TUI, and supports filters & auto-refresh *(WIP)*.
-
-[![GitHub Repo](https://img.shields.io/badge/🔗%20View%20on%20GitHub-blue)](https://github.com/hosnizaaraoui/CRYPTS)
-
-
+I'm a systems administrator passionate about infrastructure automation, security hardening, and building tools that make system administration easier. I thrive at the intersection of infrastructure, security, and automation.
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** Python, Bash, C...
-- **Frameworks & Libraries:** Requests, Selenium, PyTermGUI, BeautifulSoup4, Flask ...
-- **Cybersecurity Tools:** Nmap, Metasploit, Nuclei, WPScan, Burpsuite ...
-- **OS & Environments:** Linux, Kali, Ubuntu, Docker
-- **Other:** Web scraping, Automation, Networking...
+## 🎯 What I Do
+
+- **Infrastructure & Servers** — Deploy, manage, and optimize Linux systems at scale
+- **Automation & Scripting** — Build Python and Bash tools to reduce manual overhead
+- **Security Hardening** — Implement security best practices and conduct network assessments
+- **DevOps & Containerization** — Docker, orchestration, and deployment pipelines
+- **Monitoring & Troubleshooting** — System diagnostics, performance optimization, and incident response
 
 ---
 
-## 📊 GitHub Stats
-![Hosni's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosnizaaraoui&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hosnizaaraoui&layout=compact&theme=radical)
+## 🔥 Featured Projects
+
+### 🎯 CardioNet — Modern TUI for Nmap
+A beautiful, intuitive Terminal User Interface for network reconnaissance and security scanning, built with **Python** and **Textual**.
+
+Perfect for security assessments, network audits, and penetration testing. Build powerful scanning commands visually, execute with real-time feedback, and export results in multiple formats — all from your terminal.
+
+**Tech Stack:** Python, Textual, Nmap  
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hosnizaaraoui/cardionet)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosni-zaaraoui/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hosnizaaraoui)  
+### 💹 CRYPTS — Crypto TUI Tracker
+Real-time cryptocurrency tracking for the terminal. Fetches live market data from CoinMarketCap with color-coded displays, filtering, and auto-refresh — useful for monitoring infrastructure costs and market trends.
+
+**Tech Stack:** Python, BeautifulSoup4, PyTermGUI  
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hosnizaaraoui/CRYPTS)
 
 ---
 
-⭐ **Check out my repositories and feel free to collaborate!**
+## 💻 Core Competencies
+
+**Operating Systems**  
+Linux (Ubuntu, Debian, CentOS, Kali) · Windows Server 
+
+**System Administration**  
+User & Access Management · Firewall Configuration · DNS & DHCP · Package Management · System Hardening · Performance Tuning
+
+**Automation & Scripting**  
+Python · Bash · Shell Scripting · Scheduled Tasks 
+
+**Security & Networking**  
+Nmap · Metasploit · Nuclei · WPScan · Burp Suite · Network Analysis · Vulnerability Assessment · Penetration Testing
+
+**DevOps & Containers**  
+Docker · Linux Containers · Deployment Automation · CI/CD Basics
+
+**Development Tools**  
+Python (Requests, Flask, BeautifulSoup4, Textual) · Git · Version Control
+
+**Monitoring & Tools**  
+System Logs · Performance Analysis · Network Diagnostics · Security Auditing
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Hosni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosnizaaraoui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hosnizaaraoui&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosni-zaaraoui/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosnizaaraoui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Interested in infrastructure automation, security tooling, or collaboration? Let's connect!**
+
+</div>
