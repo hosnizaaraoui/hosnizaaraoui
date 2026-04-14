@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQE3A2sWE_cBtg/profile-displaybackgroundimage-shrink_350_1400/B56Zhf_wn3HkAY-/0/1753957215821?e=1766620800&v=beta&t=F2KpnKvPMW0XH9lm7K9DN3kjLIKGF87Ef2OBxZoPFPI)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGJ3PS_RXW4tw/profile-displaybackgroundimage-shrink_350_1400/B4DZ2HJlA2I4AY-/0/1776088931554?e=1777507200&v=beta&t=Xc5okonkw_Dtum-rkHevzzBRITPoY7-hlP179X8TuUo)
 
 # 👋 Hey there, I'm Hosni Zaaraoui
 
