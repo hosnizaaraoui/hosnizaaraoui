@@ -1,5 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGJ3PS_RXW4tw/profile-displaybackgroundimage-shrink_350_1400/B4DZ2HJlA2I4AY-/0/1776088931554?e=1777507200&v=beta&t=Xc5okonkw_Dtum-rkHevzzBRITPoY7-hlP179X8TuUo)
-
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGJ3PS_RXW4tw/profile-displaybackgroundimage-shrink_200_800/B4DZ2HJlA2I4AU-/0/1776088931554?e=1779926400&v=beta&t=PpG17jkFztAItwxOdqQ4jWPnFQvuSF2Cft0DcFNFRBY)
 # 👋 Hey there, I'm Hosni Zaaraoui
 
 **🖥️ System Administrator | 🐍 Python Developer | 🔐 Cybersecurity Enthusiast**
