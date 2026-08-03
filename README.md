@@ -18,6 +18,24 @@ I'm a systems administrator passionate about infrastructure automation, security
 
 ## 🔥 Featured Projects
 
+### OOPS - Operations Optimization & Python Scripts
+OOPS is a collection of production-inspired Python projects built around real-world system administration scenarios.
+
+Each project starts from a practical operational problem ("ticket") and evolves into a reusable command-line tool with clean architecture, documentation, and reporting capabilities.
+
+The goal of this repository is to:
+
+Learn Python through practical automation
+Solve common Linux administration tasks
+Build reusable command-line utilities
+Share production-inspired solutions with the community
+
+**Tech Stack:** Python
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hosnizaaraoui/OOPS)
+
+---
+
 ### 🎯 CardioNet — Modern TUI for Nmap
 A beautiful, intuitive Terminal User Interface for network reconnaissance and security scanning, built with **Python** and **Textual**.
 
